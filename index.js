@@ -12,4 +12,4 @@ bot.on('message', message => {
     }
 })
 
-bot.login("Nzc1MjI2Nzg3OTk0MDA5NjMx.X6jQNQ.jmlzodbksWOvkZGV6JE7T46toWc") //Your own token, thus one sadly won't work :P
+bot.login("ODU5OTQ0MDMwODcwNDM3OTIw.YN0DSQ.epkN2XhN57U7aLNVHWEQ4Sa1P2w") //Your own token, thus one sadly won't work :P
